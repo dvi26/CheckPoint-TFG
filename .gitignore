@@ -1,0 +1,17 @@
+# VSCode
+.vscode/
+
+# Python backend // Por si acaso
+/App/Back/__pycache__/
+/App/Back/*.pyc
+/App/Back/.env
+/App/Back/env/
+/App/Back/venv/
+
+# Entregables (no deben subirse)
+/Documentación/
+/Presentación/
+
+# Archivos comprimidos
+*.zip
+*.rar
