@@ -1,17 +1,32 @@
 # VSCode
 .vscode/
 
-# Python backend // Por si acaso
-/App/Back/__pycache__/
-/App/Back/*.pyc
-/App/Back/.env
-/App/Back/env/
-/App/Back/venv/
-
-# Entregables (no deben subirse)
-/Documentación/
-/Presentación/
+# Archivos del sistema
+.DS_Store
+Thumbs.db
 
 # Archivos comprimidos
 *.zip
 *.rar
+
+#Flutter
+/App/Front/build/
+/App/Front/.dart_tool/
+/App/Front/.packages
+/App/Front/pubspec.lock
+
+# Archivos específicos de Android y iOS (Flutter)
+/App/Front/android/.gradle/
+/App/Front/android/app/google-services.json
+/App/Front/ios/Runner/GoogleService-Info.plist
+
+#Backend
+/App/Back/functions/lib/
+/App/Back/functions/node_modules/
+/App/Back/functions/.env
+/App/Back/functions/.firebase/
+firebase-debug.log
+
+#Documentacion
+/Documentación/
+/Presentación/

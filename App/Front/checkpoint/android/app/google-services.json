@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215836002966",
+    "project_id": "checkpoint-tfg",
+    "storage_bucket": "checkpoint-tfg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215836002966:android:c66834c27df0a8025050b7",
+        "android_client_info": {
+          "package_name": "com.checkpoint.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWszDSwu_4kOATftZ_6k5lYCjTF8dUEp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
