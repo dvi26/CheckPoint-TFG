@@ -1,4 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.checkpoint.app">
     <application
         android:label="checkpoint"
         android:name="${applicationName}"
